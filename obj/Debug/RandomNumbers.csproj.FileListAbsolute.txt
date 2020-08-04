@@ -1,0 +1,7 @@
+E:\Windows App\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+E:\Windows App\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+E:\Windows App\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+E:\Windows App\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojAssemblyReference.cache
+E:\Windows App\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+E:\Windows App\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+E:\Windows App\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
